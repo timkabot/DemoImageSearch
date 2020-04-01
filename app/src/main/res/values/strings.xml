@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkKotlin</string>
+    <string name="back">Назад</string>
+    <string name="enter_query">Введите запрос</string>
+    <string name="searching_images">Поиск картинок</string>
+    <string name="wait_till_finish_downloading_images">Подождите пока загрузка картинок закончится</string>
+</resources>
